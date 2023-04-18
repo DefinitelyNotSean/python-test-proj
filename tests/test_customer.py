@@ -1,5 +1,5 @@
 import unittest
-from store.customers import Customer
+from store.customers.customer import Customer
 
 
 class TestCustomer(unittest.TestCase):

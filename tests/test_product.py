@@ -1,5 +1,5 @@
 import unittest
-from store.products import Product
+from store.products.product import Product
 
 class TestProduct(unittest.TestCase):
     def setUp(self):
